@@ -1,0 +1,5 @@
+beta = 0.38
+gamma = 0.1
+
+expected: 170527 in 60 days
+predicted: 170220 in 60 days
