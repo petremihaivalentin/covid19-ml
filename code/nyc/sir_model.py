@@ -14,7 +14,7 @@ def load_set(path):
 if __name__ == "__main__":
 
     
-    path = Path("D:\\Dev\\repos\\covid19-ml\\sets\\nyc\\case-hosp-death.csv")
+    path = Path("sets\\nyc\\case-hosp-death.csv")
     set = load_set(path)
 
     days_no = set["date"].size
